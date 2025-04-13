@@ -34,8 +34,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 ### 🤝 Connect with Me – Let's Grow Together!
 
-![Connect Banner](https://www.freepik.com/free-vector/teenage-girl-using-tablet-app-back-view_8470687.htm#from_element=detail_alsolike)
-
 I'm always open to learning, networking, and collaborating with like-minded developers and tech enthusiasts. Feel free to reach out on any of the platforms below! 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhpriya1999/)
