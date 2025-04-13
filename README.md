@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRIYANKA MH </h1>
+<h1 align="center">Hi 👋, I'm Priyanka MH </h1>
 First of all, thanks for visiting my profile. Here, what you should know about me:
 
 - 🔭 I’m currently working on my SKILLS
@@ -7,16 +7,13 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 ---
 ### 💻 Tech Stack & Skills
-
-![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![LLD](https://img.shields.io/badge/LLD-0033A0?style=for-the-badge)
-![HLD](https://img.shields.io/badge/HLD-0033A0?style=for-the-badge)
+<!--![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HLD](https://img.shields.io/badge/HLD-0033A0?style=for-the-badge) 
 ![Microservices](https://img.shields.io/badge/MICROSERVICES-00d9e4?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
 ![Data Structures](https://img.shields.io/badge/DATA%20STRUCTURES-00599C?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/ALGORITHMS-00599C?style=for-the-badge)
-
+![LLD](https://img.shields.io/badge/LLD-0033A0?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MONGODB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,9 +23,22 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-🤝 Open to collaborate on:
+**🤝 Open to collaborate on:**
 - Open-Source Projects
 - Developer Communities
 - Tech Content & Mentorship
 
-📚 I regularly share DSA, LLD, and HLD notes to help fellow developers — check out my pinned repositories below!
+📚 I regularly share DSA, LLD, and projects notes to help fellow developers — check out my pinned repositories below!
+
+---
+
+### 🤝 Connect with Me – Let's Grow Together!
+
+![Connect Banner](https://i.imgur.com/fS3xkzx.jpg)
+
+I'm always open to learning, networking, and collaborating with like-minded developers and tech enthusiasts. Feel free to reach out on any of the platforms below! 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhpriya1999/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mh_priya99)
+<!--[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your-user-id) -->
+
