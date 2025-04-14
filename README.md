@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka MH </h1>
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=MhPriya&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on my SKILLS
 - 👯 I’m looking to collaborate on Open Source Projects
