@@ -2,7 +2,9 @@
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <br>
 
-![Profile views(https://komarev.com/ghpvc/?username=MhPriya&color=blue)
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=MhPriya&color=blue)
+
 
 
 
