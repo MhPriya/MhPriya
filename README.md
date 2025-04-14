@@ -34,14 +34,10 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 📚 I regularly share DSA, LLD, and projects notes to help fellow developers — check out my pinned repositories below!
 
 ---
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhPriya&show_icons=true&theme=default)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhPriya&layout=compact&theme=default)
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=MhPriya&theme=default)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=MhPriya&theme=default)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MhPriya&theme=default)](https://github.com/MhPriya)
 
 
 ### 🤝 Connect with Me – Let's Grow Together!
