@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka MH </h1>
 First of all, thanks for visiting my profile. Here, what you should know about me:
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on my SKILLS
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -31,6 +33,15 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 📚 I regularly share DSA, LLD, and projects notes to help fellow developers — check out my pinned repositories below!
 
 ---
+<!-- GitHub Readme Stats - Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=default)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=default)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=your_github_username&theme=default)](https://git.io/streak-stats)
+
 
 ### 🤝 Connect with Me – Let's Grow Together!
 
