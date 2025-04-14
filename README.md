@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanka MH </h1>
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <br>
+
+### 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=MhPriya&color=blue)
+
 
 
 - 🔭 I’m currently working on my SKILLS
