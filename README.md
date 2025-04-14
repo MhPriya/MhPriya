@@ -2,8 +2,7 @@
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <br>
 
-### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=MhPriya&color=blue)
+![Profile views(https://komarev.com/ghpvc/?username=MhPriya&color=blue)
 
 
 
@@ -29,7 +28,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-**🤝 Open to collaborate on:**
+### 🤝 Open to collaborate on:
 - Open-Source Projects
 - Developer Communities
 - Tech Content & Mentorship
