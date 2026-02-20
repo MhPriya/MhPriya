@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka MH </h1>
+<h1 align="center">Hi 👋, I'm MH Priya </h1>
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <br>
 
